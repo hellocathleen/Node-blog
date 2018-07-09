@@ -1,4 +1,4 @@
-var app = requir('express')()
+var app = require('express')()
 
 var posts = [
     {
